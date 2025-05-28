@@ -4,7 +4,7 @@
 It features modules for modeling, parameter testing files preparation, atom fixing, generation of input files for calculations, and post-processing. Its modular architecture enables researchers to streamline preprocessing and postprocessing tasks with simple commands, eliminating the need for tedious and time-consuming manual preparation of input files and parsing of output files. 
 With ongoing updates, the developers of QEflow aim to further expand its functionality,  facilitating the broader application of Quantum ESPRESSO. This will ultimately accelerate progress in fields that rely on high-throughput calculations, such as the construction of machine learning datasets.
 
-![Graphic Abstract](C:\Users\11095\Desktop\QEflow\初稿\提交的材料\Graphic Abstract.png)
+![Graphic Abstract](https://github.com/jiahao-codes/QEflow/blob/0169b22d1cc8376d81bf559db80e5bb7e067b946/Graphic%20Abstract.png)
 
 
 
