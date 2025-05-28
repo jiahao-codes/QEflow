@@ -1,6 +1,6 @@
 # QEflow Introduction
 
-**QEflow** was developed by Dr. Jiahao Wu from the University of Chinese Academy of Sciences as a high-throughput Python toolkit for the Quantum ESPRESSO (QE) density functional theory (DFT) software. It is built on open-source libraries such as **pymatgen**, **numpy**, **pandas** and **scipy** .
+**QEflow** was developed by Dr. Jiahao Wu as a high-throughput Python toolkit for the Quantum ESPRESSO (QE) density functional theory (DFT) software. It is built on open-source libraries such as **pymatgen**, **numpy**, **pandas** and **scipy** .
 It features modules for modeling, parameter testing files preparation, atom fixing, generation of input files for calculations, and post-processing. Its modular architecture enables researchers to streamline preprocessing and postprocessing tasks with simple commands, eliminating the need for tedious and time-consuming manual preparation of input files and parsing of output files. 
 With ongoing updates, the developers of QEflow aim to further expand its functionality,  facilitating the broader application of Quantum ESPRESSO. This will ultimately accelerate progress in fields that rely on high-throughput calculations, such as the construction of machine learning datasets.
 
